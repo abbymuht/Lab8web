@@ -8,11 +8,11 @@
 # Proses 1
 # Menjalankan Web Server
 # Untuk menjalankan web server dari menu XAMPP Control, kemudian klik start apache dan mysql
-![Gambar 1](SS/ss00.png)
+![Gambar 1](SS/ss0.png)
 # Langkah 2
 # Proses 2
 # Mengakses Myphpadmin ini adalah link nya http://localhost/phpmyadmin/
-![Gambar 2](SS/ss0.png)
+![Gambar 2](SS/ss00.png)
 # Langkah 3
 # Membuat database dengan nama latihan
 ![Gambar 3](SS/ss1.png)
